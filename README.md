@@ -1,11 +1,31 @@
-# PopX
+## PopX Landing Page
+A modern, responsive landing page built with React.js and Vite, designed to showcase the PopX platform.
 
-## Technologies Used
+## 🚀 Features
+Single-page application with seamless navigation using React Router
 
-- React.js
-- React Router for navigation
-- CSS3 for styling
-- Modern JavaScript (ES6+)
+Clean and responsive UI styled with CSS3
 
-## Live at:
-link -- 
+Optimized build process with Vite for fast performance
+
+Modular and maintainable code structure
+Reddit
++2
+popx.co.uk
++2
+Instapage
++2
+
+## 🛠️ Technologies Used
+React.js
+
+React Router
+
+CSS3
+
+Vite
+
+JavaScript (ES6+)
+
+## 🔗 Live Demo
+View the live project here <!-- Replace '#' with your actual live link -->
